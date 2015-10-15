@@ -1,0 +1,29 @@
+body{
+	margin:0;
+	padding: 0;
+}
+
+div{
+	width:200px;
+	height:200px;
+}
+
+.rojo{background-color:#ee3664; 
+	position: relative
+
+}
+
+.verde{background-color:#b7d84b;
+		position: relative;
+		}
+
+.azul{background-color:#00abcd;
+	position: absolute;
+	z-index:1;
+	;
+	}
+
+.ama{background-color:yellow;
+	position:relative ;
+	
+	}
